@@ -94,7 +94,6 @@ Each row represents a single website session.
 ### 2. Data Preprocessing
 - Handling categorical variables
 - Encoding categorical features
-- Feature scaling (if applicable)
 - Train-test split
 
 ### 3. Exploratory Data Analysis (EDA)
