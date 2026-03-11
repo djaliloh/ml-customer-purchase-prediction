@@ -130,10 +130,6 @@ The predictive model helps the company:
 - Support proactive operational decision making
 - Increase conversion rates and reduce inefficiencies
 
-## Repository Structure
-
-
-
 ## Technologies Used
 
 - Python
